@@ -1,4 +1,4 @@
-# Unitree SDK2 in Python Modified for G1 23 DOF
+# Unitree SDK2 in C++ Modified for G1 23 DOF
 
 ### Prebuild environment
 * OS  (Ubuntu 20.04 LTS)  
